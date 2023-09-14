@@ -7,8 +7,6 @@
 "Yarı doğrudan çekinin. Yanlış yarısına sahip olmuş olabilirsiniz." ~Anonim
 "Hislerinizi gösterdiğiniz için asla özür dilemeyin. Böyle yaparak, gerçek için özür dilemiş olursunuz." ~Benjamin Disraeli
 "Zayıflar asla affedemez. Affetmek güçlülerin özelliğidir. " ~Mahatma Gandhi
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
-"Bildiğim bir tek özgürlük vardır o da aklın özgürlüğüdür." ~Antoine de Saint-Exupery
 "Bir anlık kızgınlıkta sabırlı olursanız yüz günlük pişmanlıktan kurtulursunuz." ~Chinese Proverb
 "Hissetmediğiniz bir şeyi kendinize zorla hissettiremezsiniz, ama hislerinize rağmen doğruyu yapabilirsiniz." ~Pearl S. Buck
 "Sevincimize en büyük engel kırgınlıktır." ~Pema Chodron
@@ -23,7 +21,6 @@
 Tutum
 
 "Tüm hayatınızı fırtınayı beklemekle geçirirseniz, hiçbir zaman günışığının tadını çıkaramazsınız." ~Morris West
-"Acı çekmemize sebep, başımıza gelen değildir; başımıza gelenle ilgili kendimize ne söylediğimizdir." ~Pema Chodron
 "Sağlığı olanın umudu, umudu olanın herşeyi vardır." ~Atasözü
 "Bir gülümsemenin ardından, gün her zaman daha parlak görünür." ~Anonim
 "Sizi incinebilir kılan her şey sizi güzelleştirir." ~Brené Brown
@@ -35,7 +32,6 @@ Tutum
 "Ne olduğuna bakmaktan kaçının ve ne olacağına bakın." ~Marsha Petrie Sue
 "Az kahkahanın olduğu yerde az başarı vardır." ~Andrew Carnegie
 "Başınıza olumsuz bir şey geldiğinde, içinde saklı derin bir ders vardır." ~Eckhart Tolle
-"Mutluluk yoğunluk değil, denge, düzen, ritim ve uyum halidir." ~Thomas Merton
 "Doğru yönde bakıyorsak, yapmamız gereken tek şey yürümeye devam etmektir" ~Atasözü
 "Hareketlerimiz, kelimelerimiz ve düşüncelerimiz aracılığıyla seçim sahibi olduğumuzu asla unutmamalıyız." ~Sogyal Rinpoche
 "Sevincimize en büyük engel kırgınlıktır." ~Pema Chodron
@@ -48,7 +44,6 @@ Tutum
 "Hareketler ve sözler uyumlu olursa tüm dünya değişir."  ~Chuang Tzu
 "Yapabileceğini düşünen insan yapabilir." ~Buddha
 "Eksik hiçbir şey olmadığını anladığınızda, tüm dünya size aittir." ~Lao Tzu
-"Geçmiş ne kadar zor olursa olsun, her zaman tekrar başlayabilirsin." ~Buddha
 "Hayatı çok ciddiye alma. Asla canlı kurtulamazsın." ~Elbert Hubbard
 "Sahip olduğun mutluluğun miktarı, kalbinin içindeki özgürlük miktarına bağlıdır. " ~Thich Nhat Hanh
 "Bir şeye tümüyle sahip olmayabiliriz ama birlikte herşeye sahibiz." ~Anonim
@@ -80,7 +75,6 @@ Tutum
 "Makul olanı yapabilir ya da mümkün olana karar verebilirsin." ~Anonim
 "Bugün kaybedersen, yarın kazan. Meydan okumanın bu ebedi ruhunda, bir galibin kalbi vardır." ~Daisaku Ikeda
 "Dünya sana olmaz, senden dolayı olur." ~Anonim
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Doğru olmak fazlaca abartılıdır. Durmuş bir saat bile günde iki kere doğruyu gösterir." ~Anonim
 "Hayatın zorlukları bizi daha iyi yapmak içindir, daha acı yapmak için değil. " ~Anonim
 "İçinde bulunduğumuz durum ne düşündüğümüzün sonucudur. Akıl her şeydir. Düşündüğümüz şey olacağımız şeydir." ~Buddha
@@ -110,7 +104,7 @@ Tutum
 "Bazen neşeniz gülümsemenizin kaynağıdır, ama bazen gülümsemeniz neşenizin kaynağı olabilir." ~Thich Nhat Hanh
 "Gördüklerimiz aslında aradıklarımızdır." ~Anonim
 "Aklın huzuru hayatta sorun yaşamamak değil, onunla başa çıkabilme yeteneğidir. " ~Anonim
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
+
 
 Zorluklar
 
@@ -140,7 +134,6 @@ Zorluklar
 "Yaşam sanatı, bırakmanın ve elinde tutmanın güzel karışımında gizlidir." ~Havelock Ellis
 "Hepimiz imkansız durumlar olarak zekice kılık değiştiren muhteşem fırsatlar dizisiyle karşılaşırız. " ~Charles R. Swindoll
 "Sizi çökerten yük değil onu taşıdığınız yoldur." ~Lena Horne
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Sert bir düşüş sert bir sıçrama demektir... Eğer doğru malzemeden yapılmışsanız." ~Anonim
 "Acı çekmemize sebep, başımıza gelen değildir; başımıza gelenle ilgili kendimize ne söylediğimizdir" ~Pema Chodron
 "Hiçbir duygu sonsuza dek sürmez." ~Rainer Maria Rilke
@@ -193,7 +186,6 @@ Zorluklar
 "Zorluk karşısında kararlılık karakteri üretir." ~Anonim
 "Makul olanı yapabilir ya da mümkün olana karar verebilirsin." ~Anonim
 "Bugün kaybedersen, yarın kazan. Meydan okumanın bu ebedi ruhunda, bir galibin kalbi vardır." ~Daisaku Ikeda
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Hayatın zorlukları bizi daha iyi yapmak içindir, daha acı yapmak için değil. " ~Anonim
 "Bugünün hayal kırıklıklarının yarının hayallerini gölgelemesine izin vermeyin." ~Anonim
 "Gerçek mutluluk, koşullar ne olursa olsun, yenilmeyen güçlü bir ruhu oluşturmak demektir." ~Daisaku Ikeda
@@ -374,7 +366,6 @@ Cesaret
 "Doğruluk kendime gerçeği anlatmamdır.  Dürüstlük ise diğer insanlara gerçeği anlatmaktır." ~Spencer Johnson
 "Her şeyden önce, kendinize dürüst olun ve yaptığınız şeyi kalpten yapmıyorsanız, onu yapmayı bırakın." ~Anonim
 "Aklın huzuru hayattaki çatışmaların yokluğu değil, onunla baş etme yeteneğidir." ~Anonim
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Dünyada sadece sevinç olsaydı cesaretli ve sabırlı olmayı asla öğrenemezdik." ~Helen Keller
 "En iyisini yapmak, hiç bir zaman denemeyi bırakmamaktır" ~Anonim
 "Ömrünü yaşamaya başlamayı bekleyerek tüketenlerin sayısı hiç de az değildir." ~Eckhart Tolle
@@ -494,7 +485,6 @@ Hata
 
 Korku
 
-"Paraya sahip olmanın tek güzel yanı onu harcamaktır." ~Benjamin Franklin
 "Bilgelik bundan sonra ne yapılacağını, beceri nasıl yapılacağını bilmektir, erdem ise yapmaktır." ~David Starr Jordan
 "Hayatta yapabileceğiniz en büyük hata, sürekli olarak bir hata yapabileceğiniz korkusudur." ~Elbert Hubbard
 "Korku: Gerçekmiş gibi Görünen Yanlış Delil." ~Anonim
@@ -514,7 +504,6 @@ Korku
 "Kıyıyı gözden kaybetmeye cesaret etmedikçe insan yeni okyanuslar keşfedemez." ~Andre Gide
 "Korku, gerçeğe yaklaşmanın doğal bir tepkisidir." ~Pema Chodron
 "Zorluk karşısında kararlılık karakteri üretir." ~Anonim
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Gerçek mutluluk, koşullar ne olursa olsun, yenilmeyen güçlü bir ruhu oluşturmak demektir." ~Daisaku Ikeda
 
 Bağışlama
@@ -524,7 +513,6 @@ Bağışlama
 "Anlamlı olmadıkça özrün, özür olmadığını hatırlamalıyız." ~Anonim
 "Asla bir özrü bahane ile mahvetmeyin." ~Kimberly Howard
 "Zayıflar asla affedemez. Affetmek güçlülerin özelliğidir." ~Mahatma Gandhi
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Bağışlamak, bir mahkumu serbest bırakmak ve asıl mahkumun kendiniz olduğunu fark etmektir. "~Lewis B. Smedes
 "Bağışlamak geçmişi değiştirmez ama geleceği genişletir." ~Paul Boese
 "Başkalarından nezaket beklemeden önce kendinize nazik olun." ~Lama Yeshe
@@ -677,7 +665,6 @@ Mutluluk
 "Her şeyden önce, kendinize dürüst olun ve yaptığınız şeyi kalpten yapmıyorsanız, onu yapmayı bırakın." ~Anonim
 "Mutluluk hazır bir şey değildir. Kendi hareketleriniz sonucu meydana gelir." ~Dalai Lama
 "Aklın huzuru hayattaki çatışmaların yokluğu değil, onunla baş etme yeteneğidir." ~Anonim
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Uzun vadede risk verme isteğimizden daha fazlasını almayacağız." ~Sheldon Kopp
 "Tüm hayatınızı fırtınayı beklemekle geçirirseniz, hiçbir zaman günışığının tadını çıkaramazsınız." ~Morris West
 "Kahkaha iki insan arasındaki en yakın mesafedir." ~Victor Borge
@@ -710,8 +697,6 @@ Mutluluk
 "Nasıl hatırladığımız, ne hatırladığımız ve neden hatırladığımız bireyselliğimizin en kişisel haritasını oluşturur." ~Christina Baldwin
 "Her gün size bir armağan gibi sunulan her şeyi kabul edin. Akşam olduğunda zihnen hepsini geri verin. Böylece özgürleşirsiniz." ~Daniel Levin
 "Bazı insanlar büyük ve etkileyici değişim arzu ederler. Bazı insanlar yavaş ve sağlam bir rotayı tercih eder. Senin için doğru olanı yap." ~Julie Morgenstern
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
-"Mutluluk yoğunluk değil, denge, düzen, ritim ve uyum halidir." ~Thomas Merton
 "Mutluluk basittir. Onu bulmak için yaptığımız her şey karışıktır." ~Karen Maezen Miller
 "Sevincimize en büyük engel kırgınlıktır." ~Pema Chodron
 "Önemli olan, hayatlarımızda yarattığımız değer, mutlu ettiğimiz insanlar ve insan olarak ne kadar geliştiğimizdir." ~Daisaku Ikeda
@@ -730,7 +715,6 @@ Mutluluk
 "Yavaşlayın, peşinde olduğunuz her şey etrafınıza gelecek ve size yakalayacaktır." ~John De Paola
 "Hayatımızdaki gölgelerin çoğu kendi güneşimizin önünde durmamızdan kaynaklanır." ~Ralph Waldo Emerson
 "İyi bir gülüş ve uzun bir uyku doktorun kitabındaki en iyi tedavidir. " ~İrlanda Atasözü
-"Geçmiş ne kadar zor olursa olsun, her zaman tekrar başlayabilirsin." ~Buddha
 "Sevinç, potansiyelinizi kullanarak gelir." ~Will Schultz
 "Kimsenin, mutluluğu üretmeden, onu tüketmeye hakkı yoktur." ~Helen Keller
 "Hayatı çok ciddiye alma. Asla canlı kurtulamazsın. " ~Elbert Hubbard
@@ -986,7 +970,6 @@ Farkındalık
 "Bir şey eğlenceli değilse, onu doğru yapmıyorsundur." ~Bob Basso
 "Hayatta, hızını artırmaktan daha fazlası var." ~Mahatma Gandhi
 "Bugün, endişe duyduğunuz dünün için yarınıdır." ~Atasözü
-"Bildiğim bir tek özgürlük vardır o da aklın özgürlüğüdür." ~Antoine de Saint-Exupery
 "Bugünün iyi planı yarının mükemmel planından daha iyidir." ~Atasözü
 "Deneyimi akıllıca kullandığınız sürece hiçbir şey zaman kaybı değildir." ~Rodin
 "Kendini bugüne verenlerin dünleri asla harcanmamıştır." ~Brendan Francis
@@ -1039,7 +1022,6 @@ Hatalar
 "En derinden söylenen bir ‘Hayır’, birilerini memnun etmek için veya daha kötüsü bir sorunu önlemek için söylenen bir ‘Evet’ ten daha iyidir." ~Mahatma Gandhi
 "Her düştüğünde, yerden bir şeyi kaldır." ~Oswald Avery
 "Pişmanlıklar hayallerin yerini almadığı sürece bir insan yaşlı değildir." ~Atasözü
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Neysen o ol. Bu olduğundan daha iyi olmanın ilk adımıdır." ~Julius Charles Hare
 "Bir yanlışı hatırlamak, aklınızda bir yük taşımak gibidir." ~Buddha
 
@@ -1060,7 +1042,6 @@ Motivasyon
 "Girişim adamı gibi düşün; düşünce adamı gibi hareket et." ~Henri L. Bergson
 "Düştüğünden bir defa daha fazla kalkarsan üstesinden gelirsin." ~Çin Atasözü
 "Yapabileceğini düşünen insan yapabilir." ~Buddha
-"Geçmiş ne kadar zor olursa olsun, her zaman tekrar başlayabilirsin." ~Buddha
 "Hayat bisiklet sürmek gibidir. Dengenizi korumak için hareket etmeye devam etmelisiniz." ~Albert Einstein
 "Mükemmeliyete diğerlerinden daha fazla umursayarak, daha fazla risk alarak, daha fazla hayal kurarak, daha çok umarak ulaşılabilir." ~Anonim
 "Yeni bir şeyler denemekten sakınacağınız kadar başarısızlıktan korkmayın. Hayatın en üzücü özeti üç tanımdan oluşur: yapabilirdim, yapsam iyi olurdu, yapmalıydım." ~Anonim
@@ -1098,11 +1079,9 @@ Acı
 "Nasıl hatırladığımız, ne hatırladığımız ve neden hatırladığımız bireyselliğimizin en kişisel haritasını oluşturur." ~Christina Baldwin
 "Arama, araştırma, sorma, kapısını çalma, talep etme-rahatla. Rahatlarsan, gelir. Rahatlarsan, oradadır. Rahatlarsan, onunla birlikte hissetmeye başlarsın." ~Osho
 "İnsanın çektiği acının büyük bölümü gereksizdir. Zihin hayatınızı yönettiği sürece acıyı yaratırsınız." ~Eckhart Tolle
-"Geçmiş ne kadar zor olursa olsun, her zaman tekrar başlayabilirsin." ~Buddha
 "Umut, sahip olduğunuz hissin daimi olmadığı hissidir." ~Joan Kerr
 "Şikayet etmek aptallıktır. Ya harekete geç ya da unut." ~Stefan Sagmeister
 "Bir yanlışı hatırlamak, aklınızda bir yük taşımak gibidir." ~Buddha
-
 
 Sabır
 
@@ -1270,7 +1249,6 @@ Olasılıklar
 "Şu an ne olduğunu, bugüne kadar ne olduğun; ileride ne olacağını, şu an yaptığın belirler." ~Buddha
 "Tanımadıklarımız, henüz tanışmadığımız arkadaşlarımızdır." ~Anonim
 "Kendi dünyanızı icat edin. Sizi besleyen insanlar, renkler, sesler ve iş ile kendinizi kuşatın." ~SARK
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Özgürlük, özgür olduğunu iddia etmek değil, özgür yaşamaktır" ~William Faulkner
 "Her gün evimize maceralardan, tehlikelerden ve keşiflerden yeni bir deneyim ve karakter ile dönmeliyiz." ~Henry David Thoreau
 "Olabileceğiniz şeyi olmak için asla çok geç değildir." ~George Eliot
@@ -1300,7 +1278,6 @@ Olasılıklar
 "Harekete geçmek her zaman mutluluk getirmeyebilir; ama harekete geçmeden mutluluk olmaz." ~Benjamin Disraeli
 "Neredeyse her şey, hiçbir şeyden gelir." ~Henri F. Amiel
 "Zengin bir hayatın sırrı bitişlerden daha çok başlangıçların olmasıdır." ~Dave Weinbaum
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
 "Bazı şeyleri zor yapan, onun zor olduğunu düşünmemizdir." ~Seneca
 "Yaşamlarımızdaki her hareket sonsuzlukta titreyecek bazı tellere dokunur." ~ Edwin Hubbell Chapin
 "Günlerinizi biçtiğiniz ekinlerle değil ektiğiniz tohumlarla değerlendirin." ~Robert Louis Stevenson
@@ -1334,7 +1311,6 @@ Olasılıklar
 "Ardımızda kalanlar ve önümüzde uzananlar, içimizde yatanlarla kıyaslandığında çok küçük kalırlar." ~Ralph Waldo Emerson
 "Pişmanlıklar hayallerin yerini almadığı sürece bir insan yaşlı değildir." ~Atasözü
 "Makul olanı yapabilir ya da mümkün olana karar verebilirsin." ~Anonim
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Asla çok geç değil. Yarın ölecek olsanız bile, doğru ve açık olun ve bugün mutlu bir insan olun." ~Lama Yeshe
 "Coşku bulaşıcıdır. Bir salgın başlatabilirsiniz." ~Anonim
 "Sevdiğiniz şeyin sizi kendine çeken gücüne sessizce kendinizi bırakın." ~Rumi
@@ -1349,7 +1325,6 @@ Pişmanlık
 "Hislerinizi gösterdiğiniz için asla özür dilemeyin. Böyle yaparak, gerçek için özür dilemiş olursunuz." ~Benjamin Disraeli
 "Hissetmediğiniz bir şeyi kendinize zorla hissettiremezsiniz, ama hislerinize rağmen doğruyu yapabilirsiniz." ~Pearl S. Buck
 "Ne olduğuna bakmaktan kaçının ve ne olacağına bakın." ~Marsha Petrie Sue
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
 "Başkalarından nezaket beklemeden önce kendinize nazik olun. " ~Lama Yeshe
 "Umut, sahip olduğunuz hissin daimi olmadığı hissidir." ~Joan Kerr
 "Asla pişman olmayın. İyiyse, mükemmeldir. Kötüyse, tecrübedir." ~Victoria Holt
@@ -1381,11 +1356,9 @@ Sorumluluk
 "Bittiği için ağlama. Olduğu için gülümse." ~Dr. Seuss
 "Geçmişin, sizi şimdiki zamandan alı koyabilecek hiçbir gücü yoktur. Sadece geçmiş ile ilgili sıkıntılarınız bunu yapabilir." ~Eckhart Tolle
 "Hislerinizi gösterdiğiniz için asla özür dilemeyin. Böyle yaparak, gerçek için özür dilemiş olursunuz." ~Benjamin Disraeli
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Bildiğim bir tek özgürlük vardır, o da aklın özgürlüğüdür." ~Antoine de Saint-Exupery
 "Hissetmediğiniz bir şeyi kendinize zorla hissettiremezsiniz, ama hislerinize rağmen doğruyu yapabilirsiniz." ~Pearl S. Buck
 "Başınıza olumsuz bir şey geldiğinde, içinde saklı derin bir ders vardır." ~Eckhart Tolle
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
 "Sadece sıkı sıkıya tuttuğun şeyleri kaybedersin." ~Buddha
 "Sevinçlerimizi ve acılarımızı onları yaşamadan çok daha önce seçeriz." ~Kahlil Gibran
 "Paylaşılmış sevinç iki kat sevinçtir; paylaşılmış acı yarım acıdır." ~İsveç Atasözü
@@ -1460,7 +1433,6 @@ Güç
 "Kıyıyı gözden kaybetmeye cesaret etmedikçe insan yeni okyanuslar keşfedemez." ~Andre Gide
 "Kendimizle barış yapmadığımız sürece, hiçbir zaman dış dünya ile barış sağlayamayız." ~Dalai Lama
 "Zorluk karşısında kararlılık karakteri üretir." ~Anonim
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 "Hayatın zorlukları bizi daha iyi yapmak içindir, daha acı yapmak için değil." ~Anonim
 "Ayrılıkta dünyanın en büyük ıstırabı, şefkatte ise dünyanın gerçek gücü yatar." ~Buddha
 "Hayatın trajedisi çok erken bitmesi değil, başlamak için çok uzun beklememizdir." ~W.M. Lewis
@@ -1476,32 +1448,26 @@ Stres
 "Açık olun böylelikle hayat daha kolaylaşacaktır. Bir bardak sudaki bir kaşık tuz, suyu içilmez hale getirir. Bir göldeki bir kaşık tuz ise neredeyse fark edilmez." ~Buddha
 "Her gün bir seçim getirir: stresi yaşamak ya da huzuru yaşamak. " ~Joan Borysenko
 "Hislerinizi gösterdiğiniz için asla özür dilemeyin. Böyle yaparak, gerçek için özür dilemiş olursunuz." ~Benjamin Disraeli
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
-"Bildiğim bir tek özgürlük vardır o da aklın özgürlüğüdür." ~Antoine de Saint-Exupery
 "Hissetmediğiniz bir şeyi kendinize zorla hissettiremezsiniz, ama hislerinize rağmen doğruyu yapabilirsiniz." ~Pearl S. Buck
 "Aklının, hayatın tüm zorluklarını vücudunun taşıması gerektiğine inandırmasına izin verme." ~Astrid Alauda
 "Hafiflemek ve özgür olmak için endişe ve kaygılarımı bırakmaya yemin ederim." ~Thich Nhat Hanh
 "Başınıza olumsuz bir şey geldiğinde, içinde saklı derin bir ders vardır." ~Eckhart Tolle
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
 "Hepimizin problemleri var. Onları çözdüğümüz yol bizi farklı yapandır." ~Anonim
 "Stres "burada" olup "orada" olmayı istemekten kaynaklanır." ~Eckhart Tolle
 "Yavaşlayın, peşinde olduğunuz her şey etrafınıza gelecek ve size yakalayacaktır." ~John De Paola
 "Hayatımızdaki gölgelerin çoğu kendi güneşimizin önünde durmamızdan kaynaklanır." ~Ralph Waldo Emerson
 "Başkalarından nezaket beklemeden önce kendinize nazik olun." ~Lama Yeshe
-"Geçmiş ne kadar zor olursa olsun, her zaman tekrar başlayabilirsin." ~Buddha
 "İçeride düşman yoksa dışarıdaki düşmanlar seni incitemez." ~Afrika Atasözü
 "Umut, sahip olduğunuz hissin daimi olmadığı hissidir." ~Joan Kerr
 "Hedeflediğin insan olmaya çalışmak gerilim, kim olduğunu kabul etmek ise rahatlıktır." ~Çin Atasözü
 "Bazen koca bir gün içerisindeki en önemli şey iki derin nefes arasındaki dinlenmemizdir." ~Etty Hillesum
 "Korku, gerçeğe yaklaşmanın doğal bir tepkisidir." ~Pema Chodron
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 
 Başarı
 
 "Zaman bir insanın harcayabileceği en değerli şeydir." ~Theophrastus
 "Düşünceniz hareketinizi belirler ve hareketiniz sonuçlarınızı belirler, ama öncelikle inanmalısınız." ~Mark Victor Hansen
 "Sahip olmadıklarına yoğunlaşırsan asla yeterince sahip olamazsın." ~Oprah Winfrey
-"Paraya sahip olmanın tek güzel yanı onu harcamaktır." ~Benjamin Franklin
 "Uçurtmalar rüzgar gücüyle değil, o güce karşı koydukları için yükselir." ~Winston Churchill
 "Her zaman, ne kadar yol alacağınıza değil, ne kadar yol aldığınıza odaklanın." ~Anonim
 "Başarı adamı olmaya değil, değer adamı olmaya çalış." ~Albert Einstein
@@ -1553,18 +1519,13 @@ Başarı
 
 Güçsüzlük
 
-"Güzel olan şey asla mükemmel değildir." ~Atasözü
-"Büyüme, güçsüzlüklerimizi kabul etmeye başladığımızda başlar." ~Jean Vanier
 "Gücümüz güçsüzlüklerimizden doğar." ~Ralph Waldo Emerson
 "Diğerlerinde gücü aramak çok daha değerlidir. Onların kusurlarını eleştirerek hiçbir şey kazanamazsınız." ~Daisaku Ikeda
-"Bir engel, basamak taşı da olabilir köstek de." ~Anonim
 
 Üzüntü
 
-"Paraya sahip olmanın tek güzel yanı onu harcamaktır." ~Benjamin Franklin
 "Üzüntü asla yarının sıkıntısından bir şey çalmaz sadece bugünün neşesini tüketir." ~Leo Buscaglia
 "Hislerinizi gösterdiğiniz için asla özür dilemeyin. Böyle yaparak, gerçek için özür dilemiş olursunuz." ~Benjamin Disraeli
-"İnsanı güçlü kılan, bazı insanların düşündüğü gibi elinde tutmak değil, bazen de bırakmaktır." ~Anonim
 "Tüm hayatınızı fırtınayı beklemekle geçirirseniz, hiçbir zaman günışığının tadını çıkaramazsınız." ~Morris West
 "Bugün, endişe duyduğunuz dünün yarınıdır." ~Atasözü
 "Gücünüzden kuşku duyduğunuzda, gücü kuşkunuza verirsiniz." ~Honore de Balzac
@@ -1575,7 +1536,6 @@ Güçsüzlük
 "Hafiflemek ve özgür olmak için endişe ve kaygılarımı bırakmaya yemin ederim." ~Thich Nhat Hanh
 "Nasıl hatırladığımız, ne hatırladığımız ve neden hatırladığımız bireyselliğimizin en kişisel haritasını oluşturur." ~Christina Baldwin
 "Arama, araştırma, sorma, kapısını çalma, talep etme-rahatla. Rahatlarsan, gelir. Rahatlarsan, oradadır. Rahatlarsan, onunla birlikte hissetmeye başlarsın." ~Osho
-"Geçmişi bırakmak demek şu andaki rüyanızdan haz alabilirsiniz demektir." ~Don Miguel Ruiz
 "Hepimizin problemleri var. Onları çözdüğümüz yol bizi farklı yapandır." ~Anonim
 "Hayatımızdaki gölgelerin çoğu kendi güneşimizin önünde durmamızdan kaynaklanır." ~Ralph Waldo Emerson
 "İçeride düşman yoksa dışarıdaki düşmanlar seni incitemez." ~Afrika Atasözü
