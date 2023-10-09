@@ -1,14 +1,5 @@
 Tutum
 
-"Bir gülümsemenin ardından, gün her zaman daha parlak görünür." ~Anonim
-"Sizi incinebilir kılan her şey sizi güzelleştirir." ~Brené Brown
-"Kaybettiğinizde, aldığınız dersi de kaybetmeyin." ~Anonim
-"En kötü düşmanınız bile, kendi ihtiyatsız düşünceleriniz kadar size zarar veremez." ~Buddha
-"Problemlerimizi onları yaratırken kullandığımız aynı düşünce yapısı ile çözemeyiz " ~Albert Einstein
-"İçinize ne kadar çok ışık girmesine izin verirseniz, yaşadığınız dünya da o kadar parlak olur." ~Shakti Gawain
-"Dünyayı iyileştirmeye başlamadan önce kimsenin tek bir an bile beklemeye ihtiyacı olmaması ne kadar mükemmel." ~Anne Frank
-"Ne olduğuna bakmaktan kaçının ve ne olacağına bakın." ~Marsha Petrie Sue
-"Az kahkahanın olduğu yerde az başarı vardır." ~Andrew Carnegie
 "Başınıza olumsuz bir şey geldiğinde, içinde saklı derin bir ders vardır." ~Eckhart Tolle
 "Doğru yönde bakıyorsak, yapmamız gereken tek şey yürümeye devam etmektir" ~Atasözü
 "Hareketlerimiz, kelimelerimiz ve düşüncelerimiz aracılığıyla seçim sahibi olduğumuzu asla unutmamalıyız." ~Sogyal Rinpoche
@@ -496,7 +487,6 @@ Bağışlama
 "Bizi mutlu eden sahip olduklarımız değil, zevk aldıklarımızdır." ~John Petit-Senn
 "Kalplerimizi açmayı öğrenirsek, herkes, hatta bizi deli edenler bile, öğretmenimiz olabilir." ~Pema Chodron
 "Refah, istediğinize sahip olmaktan daha çok sahip olduğunuzu istemeğe bağlıdır." ~Geoffrey F. Abert
-"İçinize ne kadar çok ışık girmesine izin verirseniz, yaşadığınız dünya da o kadar parlak olur." ~Shakti Gawain
 "Şükran, geçmişimizi anlamlandırır, bugüne huzur getirir ve yarın için bir vizyon yaratır." ~Melody Beattie
 "Takdir mükemmel bir şeydir. Başkalarındaki mükemmel şeylerin bize de ait olmasını sağlar." ~Voltaire
 "Eksik hiçbir şey olmadığını anladığınızda, tüm dünya size aittir." ~Lao Tzu
